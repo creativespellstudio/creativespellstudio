@@ -2,6 +2,8 @@
 
 Criamos feitiços digitais que transformam sonhos em realidade!
 No Creative Spell, combinamos criatividade e tecnologia para construir sites encantadores, feitos sob medida para dar vida às suas ideias.
+
+
 ✨ Nossos encantamentos:
 
     Criação de sites mágicos e responsivos
